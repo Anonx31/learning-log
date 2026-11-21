@@ -4,5 +4,4 @@ Daily practice as I build skills in Python, SQL and data.
 <<<<<<< HEAD
 - day02: Python conditionals, for/while loops, 10 practice programs
 - day03: Python functions (6 programs), SQLBolt lessons 1-6 notes
-=======
->>>>>>> e1d85dc6e3a8df3355035c8327f57c616a0fd1c6
+- day04: Python lists and dictionaries (7 programs), SQLBolt lessons 7-12
